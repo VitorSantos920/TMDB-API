@@ -6,4 +6,4 @@ Os filmes foram escolhidos a partir do filtro de mais populares. (sort_by = popu
 
 (A ser aprimorado...)
 
-<img src="/assets/img/imgToGithub.png">
+<img src="assets/img/imgToGithub.png">
